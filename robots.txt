@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://paeshaeta.makebluetooth.com/sitemap.xml
